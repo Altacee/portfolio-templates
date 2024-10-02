@@ -1,7 +1,9 @@
 # portfolio-templates
 Repository for front end templates
 Welcome to the Hacktoberfest Portfolio Template Repository! This is a collaborative project aimed at helping participants create simple, customizable portfolio templates. We invite you to contribute by creating your own portfolio template that pulls information from a configuration file.
-🛠️ Project Structure
+
+
+🛠️ ## Project Structure
 
 Each contributor will create their own folder within the templates directory. Inside this folder, you should include:
 
