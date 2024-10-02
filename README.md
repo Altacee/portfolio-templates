@@ -11,7 +11,7 @@ Each contributor will create their own folder within the templates directory. In
 
  A config file (e.g., config.json, config.yaml) containing the details like name, bio, projects, and contact information.
 
-You should make a folder with your profolio title and in readme inside your portfolio write about the portfolio and the things which you take from config file like githun, social meadia etc.
+You should make a folder with your profolio title and in readme inside your portfolio write about the portfolio and the things which you take from config file like github, social meadia etc.
 
 
 
